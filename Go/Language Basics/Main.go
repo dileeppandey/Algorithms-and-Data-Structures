@@ -15,4 +15,11 @@ func main() {
 
 	fmt.Println("Let's solve FizzBuzz")
 	FizzBuzz(20)
+
+	fmt.Println("Let's reverse a 'string' ->", Reverse("string"))
+	fmt.Println("Let's reverse a string 'ababab' ->", Reverse("ababab"))
+
+	fmt.Println("Let's check to see if 1 is an even ended number", EvenEndedNumber(1))
+	fmt.Println("Let's check to see if 121 is an even ended number", EvenEndedNumber(121))
+	fmt.Println("Let's check to see if 12 is an even ended number", EvenEndedNumber(12))
 }
