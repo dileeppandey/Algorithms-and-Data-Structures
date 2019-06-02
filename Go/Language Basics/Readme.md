@@ -5,3 +5,5 @@
 * Loop [Code - FizzBuzz](https://github.com/dileeppandey/Algorithms-and-Data-Structures/blob/master/Go/Language%20Basics/FizzBuzz.go)
 * String [Code - ReverseString](https://github.com/dileeppandey/Algorithms-and-Data-Structures/blob/master/Go/Language%20Basics/ReverseString.go)
 * String [Code - EvenEndedNumber](https://github.com/dileeppandey/Algorithms-and-Data-Structures/blob/master/Go/Language%20Basics/EvenEndedNumber.go)
+* Map [Code - WordCount](https://github.com/dileeppandey/Algorithms-and-Data-Structures/blob/master/Go/Language%20Basics/WordCount.go)
+* Object Oriented Programming [Code - Square](https://github.com/dileeppandey/Algorithms-and-Data-Structures/blob/master/Go/Language%20Basics/Square.go)
